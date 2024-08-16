@@ -61,9 +61,4 @@
    Example: 
    ```bash
     $./a.out 1_input.txt input.txt Assignment1
-    ```
-
-
-
-
-    
+   ```
