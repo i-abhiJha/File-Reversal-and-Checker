@@ -20,7 +20,8 @@
 
   ### How To Run: 
    * If name of the input file is input.txt and want to reverse the entire file
-      \```
+      ```bash
+     
      $ ./a.out input.txt 0
-     ```\
-    * If name of the input file is input.txt and want to reverse from beginning of the file to start_index(excluded) and from end_index(excluded) to end of file
+
+     ```
